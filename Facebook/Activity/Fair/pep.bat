@@ -1,0 +1,1 @@
+node "facebook.js" "credentials.json" "hindustantimes" 10
